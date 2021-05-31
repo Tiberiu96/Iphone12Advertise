@@ -1,0 +1,21 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.button{
+  position: absolute;
+  border: none;
+  border-radius:50px;
+  font-size: 50px;
+  margin-top: 300px;
+  margin-left: 150px;
+  background-color: #861657;
+  background-image: linear-gradient(326deg, #861657 0%, #ffa69e 74%);
+  padding:10px;
+  cursor: pointer;
+
+}
